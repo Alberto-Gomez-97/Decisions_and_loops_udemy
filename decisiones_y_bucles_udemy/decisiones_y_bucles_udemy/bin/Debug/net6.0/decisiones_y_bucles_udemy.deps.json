@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "decisiones_y_bucles_udemy/1.0.0": {
+        "runtime": {
+          "decisiones_y_bucles_udemy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "decisiones_y_bucles_udemy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
